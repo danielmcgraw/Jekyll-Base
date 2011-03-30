@@ -1,0 +1,157 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Helvetica", "Arial", "Helvetica", sans-serif;
+}
+
+
+header {
+    position: absolute;
+    left: -400px;
+    top: 350px;
+    -webkit-transform:rotate(90deg);
+    -moz-transform:rotate(90deg);
+    -o-transform: rotate(90deg);
+    z-index: -1;
+}
+
+
+header a {
+    color: #DEF;
+    font-size: 4em;
+}
+
+a {
+    text-decoration: none;
+}
+
+.content {
+    position: absolute;
+    left: 115px;
+    margin-left: 5px;
+    width: 895px;
+    margin-bottom: 50px;
+}
+
+.related {
+    margin-top: 5px;
+}
+
+.related ul {
+    margin: 0;
+    padding: 0;
+}
+
+.related li {
+    font-size: 18px;
+    list-style: none;
+    padding: 5px 0px;
+    margin: 0;
+    color: #777;
+    border-bottom: 1px solid #eee;
+}
+
+.related li span {
+    float: right;
+}
+
+.related a {
+    color: #DDD;
+    text-decoration: none;
+}
+
+.related a:hover {
+    color: #F0B;
+    text-decoration: underline;
+}
+
+#post {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+#post h1 a {
+    font-size: 1.5em;
+    color: #ABC;
+}
+
+#post h3 {
+    font-size: 1.2em;
+    color: #CCC;
+}
+
+#post a {
+    color: #BBB;
+    text-decoration: none;
+}
+
+#post a:hover {
+    color: #F0B;
+}
+    
+#post ul {
+    font-size: 14px;
+    margin: 20px 20px 20px 0;
+}
+
+#post li {
+    line-height: 1.4em;
+    margin-bottom: 1em;
+    color: #222;
+    list-style-type: square;
+}
+
+#post li code {
+    border: 1px solid #ccc;
+}
+
+#post p {
+    font-size: 18px;
+    margin-bottom: 1.2em;
+    line-height: 1.7em;
+}
+
+#post img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 610px;
+    -webkit-border-radius: 8px;
+    -webkit-box-shadow: 0px 0px 10px #555;
+}
+
+#post .authoring {
+    padding-left: 3px;
+    font-size: 14px;
+    color: #777;
+}
+
+#post .authoring a {
+    color: #777;
+    text-decoration: none;
+    border-bottom: 1px solid #ccc;
+    padding: 0;
+}
+
+#post .authoring a:hover {
+    color: #555;
+    border-color: #555;
+}
+
+#post blockquote {
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    font-size: 14px;
+    padding: 1em 3em;
+    margin: 2em 6em;
+    color: #444;
+}
+
+#post blockquote cite {
+    text-align: right;
+    color: #111;
+    font-style: normal;
+}
