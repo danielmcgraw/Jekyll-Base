@@ -33,7 +33,7 @@ This is where you will be putting your Jekyll configuration options. If this fil
 This folder is where you will be putting all your layout templates. I have added layout.html and post.html so you can get an idea of how they are strutured and used. 
 
 #### layout.html ####
-This is the base template for our site. There are no naming conventions, but if you choose to change this files name make sure you update all the layout references in your file's YAML Front Matter blocks.
+This is the base template for our site. There are no naming conventions, but if you choose to change this file's name make sure you update all the layout references in your file's YAML Front Matter blocks.
 
 #### post.html ####
 This is the bast template for each of our posts. Again there are no naming conventions, but make sure you update the required files YAML Front Matter blocks if you do change its name. To learn more about the use of YAML Front Matter check out [this page](https://github.com/mojombo/jekyll/wiki/yaml-front-matter).
