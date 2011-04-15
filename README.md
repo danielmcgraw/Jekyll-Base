@@ -5,25 +5,16 @@ This is a base that will ge you started with jekyll create by Daniel McGraw (@da
 Check out my [post series](http://danielmcgraw.com/2011/04/14/The-Ultimate-To-Getting-Started-With-Jekyll-Part-1/) on how to use Jekyll Base to create your own Jekyll powered blog.
 
 ### Structure ###
-.
-
-|-- .gitignore
-
-|-- README
-
-|-- _config.yml
-
-|-- _layouts
-
-|   |-- layout.html
-
-|   `-- post.html
-
-|-- _posts
-
-|   `-- 1985-10-26-Test-Post.md
-
-`-- index.html
+.  
+|-- .gitignore  
+|-- README  
+|-- _config.yml  
+|-- _layouts  
+|   |-- layout.html  
+|   `-- post.html  
+|-- _posts  
+|   `-- 1985-10-26-Test-Post.md  
+`-- index.html  
 
 Lets take a look at what each of these do.
 
