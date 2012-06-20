@@ -2,7 +2,7 @@
 This is a base that will ge you started with jekyll create by Daniel McGraw (@danielmcgraw).
 
 ### Usage ###
-Check out my [post series](http://danielmcgraw.com/2011/04/14/The-Ultimate-To-Getting-Started-With-Jekyll-Part-1/) on how to use Jekyll Base to create your own Jekyll powered blog.
+Check out my [post series](http://danielmcgraw.com/2011/04/14/The-Ultimate-Guide-To-Getting-Started-With-Jekyll-Part-1/) on how to use Jekyll Base to create your own Jekyll powered blog.
 
 ### Structure ###
 <pre>
