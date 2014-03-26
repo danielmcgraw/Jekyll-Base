@@ -1,5 +1,5 @@
 ## Jekyll Base ##
-This is a base that will ge you started with jekyll create by Daniel McGraw (@danielmcgraw).
+This is a base that will get you started with jekyll, created by Daniel McGraw (@danielmcgraw).
 
 ### Usage ###
 Check out my [post series](http://danielmcgraw.com/2011/04/14/The-Ultimate-Guide-To-Getting-Started-With-Jekyll-Part-1/) on how to use Jekyll Base to create your own Jekyll powered blog.
@@ -45,4 +45,4 @@ This is your posts folder. You will be putting your blog posts in here. Notice t
 This is a simple blog post. Notice that we are using markdown. To learn more about markdown check out the [markdown syntax documentation](http://daringfireball.net/projects/markdown/syntax). Also notice that there is YAML Front Matter in this file specifying the layout it will use and the title of the post. Layout is one of a couple predefined global variables. You can also specify custom variables in the YAML Front Matter. To learn more about the use of YAML Front Matter check out [this page](https://github.com/mojombo/jekyll/wiki/yaml-front-matter).
 
 ### index.html ###
-This is used to render your sites index. It is essntially a post loop wrapped in your base layout.
+This is used to render your sites index. It is essentially a post loop wrapped in your base layout.
